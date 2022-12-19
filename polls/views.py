@@ -8,7 +8,7 @@ from .models import Question
 
 def index(request):
     latest_question_list = Question.objects.order_by('-pub_date')[:5]
-    output = " , "
+    output = ","
     for latest_question in latest_question_list:
         output.append(latest_question.question_text)
         print("question_text", latest_question.question_text) 
