@@ -1,10 +1,10 @@
-## Django Project (Voting System)
+# Django Project (Voting System)
 blablabla
 
-## Project Setup
+# Project Setup
 ---------------
-# Create Virtual Environment
+## Create Virtual Environment
 >
 
-# Run Server
+## Run Server
 >
