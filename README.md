@@ -1,0 +1,2 @@
+# djangoproject
+## CREATE VIRTUAL ENVIRONMENT
