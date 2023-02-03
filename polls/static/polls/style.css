@@ -2,5 +2,5 @@ li a {
     color: rgba(53, 0, 128, 0.773);
 }
 body {
-    background: white url("polls/images/han.png") no-repeat;
+    background-image: url("/static/polls/images/han.png") !important;
 }
