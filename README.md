@@ -5,12 +5,24 @@ This is about an app called Polls which allows individuals to vote per options p
 ---------------
 ## Create Virtual Environment
  Open terminal
-> virtualenv -p python3 dp_env
-> enter dp_env\Scripts\activate.bat
-> git clone https://github.com/gloriaenyonam/djangoproject.git
-> cd djangoproject
+ ```
+ virtualenv -p python3 dp_env
+ ```
+ ```
+ dp_env\Scripts\activate.bat
+ ```
+ ```
+ git clone https://github.com/gloriaenyonam/djangoproject.git
+ ```
+ ```
+ cd djangoproject
+ ```
   
 
 ## Install Requirements And Run Server
-> pip install -r requirements.txt
-> python manage.py runserver
+```
+pip install -r requirements.txt
+```
+```
+python manage.py runserver
+```
